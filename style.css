@@ -16812,3 +16812,9 @@ label.checkbox { padding-left: 20px; }
 .cuadro-img:hover{
 	background-color: #f0b52b;
 }
+
+.spanverde{
+	font-weight: 900;
+	font-size: 20px;
+	color: #02ac8b;
+}
