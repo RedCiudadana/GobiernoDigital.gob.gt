@@ -16792,3 +16792,23 @@ label.checkbox { padding-left: 20px; }
 }
 
 
+.pad0100{
+	padding: 0 1rem 0 0;
+}
+
+.pad0200{
+	padding: 0 2rem 0 0;
+}
+
+.ft30{
+	font-size: 30px!important
+}
+
+.btn-morado{
+	background-color: #9041c8;
+	color: #fff;
+}
+
+.cuadro-img:hover{
+	background-color: #f0b52b;
+}
